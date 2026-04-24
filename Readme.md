@@ -59,4 +59,5 @@ anything important.
 
 ## License
 
-[MIT](LICENSE) — do whatever you want with it.
+Licensed under the [Apache License 2.0](LICENSE). See the `LICENSE` file for
+the full text.
